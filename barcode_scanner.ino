@@ -10,14 +10,14 @@
 #include <WebServer.h>
 
 
-const char *ssid = "PLDTHOMEFIBRacNDs";
-const char *password = "PLDTWIFIz8Anm";
+const char *ssid = "PLDTHOMEFIBRllll";
+const char *password = "PLDTWIFIlllll";
 
 
 
 String codeString = "37000138754"; // "";
 
-String my_Api_Key = "oe5nw4c7y0ytif2tsnqee0zz4g5yxc";
+String my_Api_Key = "oe5nw4c7y0ytif2tsnlllllll";
 
 String server_https = "https://api.barcodelookup.com/v3/products?barcode=" + codeString + "&formatted=y&key=" + my_Api_Key;
 
