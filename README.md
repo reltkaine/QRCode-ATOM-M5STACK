@@ -12,5 +12,5 @@ https://www.barcodelookup.com/
 
 
 sample barcode::
-https://www.upcitemdb.com/upc/37000138754...
+https://www.upczilla.com/item/037000138754/
 
