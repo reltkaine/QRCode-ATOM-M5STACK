@@ -1,6 +1,9 @@
 # QRCode-ATOM-M5STACK
 using qrcode atom + online barcode identifier
 
+Support:
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/ruvics/10usd)
+
 
 Register to get trial account::
 https://www.barcodelookup.com/
