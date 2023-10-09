@@ -137,7 +137,7 @@ void loop() {
     Serial.println(s.length());
     server_https2.replace("\0", "");
     server_https2.replace("\n", "");
-    server_https2.replace("\r", "");
+    server_https2.replace("\r", ""); ////need to clean to delete extra charater from QRCODE sensor response......
     Serial.println(server_https2);
     Serial.println(server_https2.length());
     Serial.println(server_https1);
